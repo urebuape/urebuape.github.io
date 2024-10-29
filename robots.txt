@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://urebuape.github.io/sitemap_index.urebuape
